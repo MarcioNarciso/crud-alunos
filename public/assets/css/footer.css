@@ -1,0 +1,10 @@
+.pagina-container {
+    width: 100%;
+    height: calc(100% - 30px);
+}
+
+.footer-wrapper {
+    height: 30px;
+    margin-bottom: 0;
+    color: white;
+}

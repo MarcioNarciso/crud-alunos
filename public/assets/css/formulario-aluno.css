@@ -1,0 +1,24 @@
+.mensagem-erro {
+    margin-left: 5px;
+    color: red;
+}
+
+#foto {
+    display: none;
+}
+
+#btnFoto {
+    width: 100%;
+}
+
+#exibeFotoAluno {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    vertical-align: middle;
+    border: 2px solid gray;
+}
+
+.ocultar {
+    display: none;
+}
